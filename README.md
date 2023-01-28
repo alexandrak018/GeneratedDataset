@@ -10,7 +10,7 @@ Let's work on a small goal that you feel you can accomplish. | [[1]](#1) |
 What goal would you like to set that you are willing to accomplish regarding your sugar consumption (e.g. cutting back on sugary drinks) | [[1]](#1) |
 Would you like me to explain about how sugar works in the body? | [[2]](#2) |
 I think you can do it! | [[3]](#3) |
-Don’t worry! A lot of people who have come to use have been in the same state as you and are now doing much better. | [[3]](#3) |
+Don’t worry! A lot of people who have come to us have been in the same state as you and are now doing much better. | [[3]](#3) |
 I think you will be fine as well.  | [[3]](#3) |
 What do you see as some not-so-good things if you continue consuming sugar as you are?   | [[4]](#4) |
 That’s understandable. | [[5]](#5) |
