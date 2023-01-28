@@ -4,4 +4,11 @@ This repository contains the dataset for the article titled "Modelling and Evalu
 
 OARS - adapted sentence | Reference
 --- | --- 
-Seconds | 301 |
+What do you think you could cut that down to? | [[1]](#1) |
+
+
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
