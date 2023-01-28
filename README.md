@@ -7,33 +7,11 @@ OARS - adapted sentence | Reference
 What do you think you could cut that down to? | [[1]](#1) |
 I'd like to get your input on this. | [[1]](#1) |
 Let's work on a small goal that you feel you can accomplish. | [[1]](#1) |
-What goal would you like to set that you are willing to accomplish regarding your sugar consumption (e.g. cutting back on
- sugary drinks) | [[1]](#1) |
+What goal would you like to set that you are willing to accomplish regarding your sugar consumption (e.g. cutting back on sugary drinks) | [[1]](#1) |
 Would you like me to explain about how sugar works in the body? | [[2]](#2) |
 What do you think you could cut that down to? | [[1]](#1) |
 What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
-What do you think you could cut that down to? | [[1]](#1) |
+
 
 
 ## References
