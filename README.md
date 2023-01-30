@@ -48,7 +48,6 @@ So you feel that... | [[9]](#9) |
 Some of what I heard you say is that...  | [[5]](#5) |
 Give me an example.   | [[5]](#5) |
 Can you elaborate on that?  | [[5]](#5) |
-Some of what I heard you say is that...  | [[5]](#5) |
 If I heard you correctly, this is what I think you are saying: #.  | [[5]](#5) |
 Everything you say in this chat will be kept secret, so no worries!  | [[5]](#5) |
 You know, they say action is the foundational key to success. So keep it up! | [[5]](#5) |
