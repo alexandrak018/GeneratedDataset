@@ -1,6 +1,8 @@
 # Generated Dataset
 
-This repository contains the dataset for the article titled "Modelling and Evaluating Motivational Interviewing in a Chatbot", which was compiled based on numerous earlier investigations.
+This repository contains the dataset for the article titled "Modelling and Evaluating Motivational Interviewing in a Chatbot", which was compiled based on numerous earlier investigations. 
+
+The first column containts the adapted sentence in order to fit with the dialogue's purpose, while the second column is meant for its reference.
 
 OARS - adapted sentence | Reference
 --- | --- 
