@@ -147,4 +147,4 @@ Fahad Almusharraf, Jonathan Rose, and Peter Selby. Engaging unmotivated smokers 
 Toshikazu Kanaoka and Bilge Mutlu. Designing a motivational agent for behavior change in physical activity. pages 1445–1450, 04 2015. doi: 10.1145/2702613.2732924.
 
 <a id="14">[14]</a>
-Daniel Schulman, Timothy Bickmore, and Candace Sidner. An intelligent conversational agent for promoting long-term health behavior change using motivational interviewing. 01 2011.
+Daniel Schulman, Timothy Bickmore, and Candace Sidner. An intelligent conversational agent for promoting long-term health behavior change using motivational interviewing. AAAI Spring Symposium - Technical Report, 01 2011.
